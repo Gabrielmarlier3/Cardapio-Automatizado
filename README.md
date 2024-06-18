@@ -73,7 +73,7 @@ Baixe e instale o MySQL a partir do site oficial:
 
 1. Clone o repositório do projeto:
    ```bash
-   git clone <URL do repositório>
+   git clone https://github.com/Gabrielmarlier3/Cardapio-Automatizado.git
    cd cardapio-automatizado
    ```
 
